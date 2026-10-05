@@ -159,7 +159,7 @@ A fire alarm system developed with a focus on PCB design and electronic system i
 
 **Bachelor of Technology, Electronics and Communication Engineering (ECE)**<br/>
 Swarnandhra College of Engineering and Technology<br/>
-Expected graduation: 2026
+graduation: 2026
 
 <br/>
 
